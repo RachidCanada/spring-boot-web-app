@@ -1,16 +1,19 @@
-# Spring Boot Maven Example Hello World
+# 🚀 Spring Boot Web App
 
-Guide
+Ce projet est une application web simple développée avec **Spring Boot**, qui propose une page HTML statique et une API REST.
 
-This is a part of the tutorial http://javabycode.com/spring-framework-tutorial/spring-boot-tutorial/spring-boot-maven-example-hello-world.html
+---
 
-What you'll need
+## 📌 Fonctionnalités
+✅ Page d'accueil HTML (`index.html`)  
+✅ API REST qui renvoie un message `Hello, Spring Boot!`  
+✅ Développé avec **Spring Boot**, **Java 17** et **Maven**  
 
-    JDK 1.7 or later
-    Maven 3 or later
-    spring-boot 1.3.5.RELEASE
+---
 
+## 🛠️ Installation et exécution
 
-Run
-
-    mvn spring-boot:run
+### 1️⃣ **Cloner le projet**
+```sh
+git clone https://github.com/RachidCanada/spring-boot-web-app.git
+cd spring-boot-web-app
